@@ -41,4 +41,27 @@ console.log(exemplo7);
 let exemplo8 =null;
 console.log(exemplo8);
 
+//operadores aritiméticos
+
+const valor1=10;
+const valor2=20;
+
+console.log(valor1 + valor2)
+console.log(valor1 / valor2)
+console.log(valor1 - valor2)
+console.log(valor1 * valor2)
+console.log(valor1 ** valor2)
+
+// operadores logicos
+// = atribuição
+// == comparação
+// === calor e tipo(estritamente igual)
+// && = E (todas condições tem que ser verdadeiras)
+// || = ou (umas das condição tem que ser verdadeira)
+
+console.log(valor1 < valor2);
+console.log(valor1 > 10 && valor2 <10);
+console.log(valor2 > 100 || valor1 <10);
+console.log(valor1 == valor2);
+console.log(valor2 === valor1);
 
